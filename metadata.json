@@ -1,0 +1,6 @@
+{
+  "name": "사업계산도구함",
+  "description": "부가세, 공급가액, 프리랜서 3.3%, 견적서 금액, 마진율을 빠르게 계산할 수 있는 무료 사업자·프리랜서 계산 도구입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
